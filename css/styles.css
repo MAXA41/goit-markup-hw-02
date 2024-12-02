@@ -170,9 +170,6 @@ background-color: #F4F4FD;
     background-color: #FFFFFF;
 }
 
-.portfolio-list{
-    background-color: #FFFFFF;
-}
 .h-portfolio {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
@@ -184,10 +181,13 @@ background-color: #F4F4FD;
         text-transform: capitalize;
         text-align: center;
         color: #2e2f42;
+        background-color: #FFFFFF;
         
         
 }
-
+.portfolio-list {
+    background-color: #FFFFFF;
+}
 .portfolio-discr {
     font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -197,6 +197,7 @@ background-color: #F4F4FD;
         line-height: 120%;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        background-color: #FFFFFF;
 }
 
 .portfolio-discrip {
@@ -208,6 +209,7 @@ background-color: #F4F4FD;
         line-height: 150%;
         letter-spacing: 0.02em;
         color: #434455;
+        background-color: #FFFFFF;
 }
 
 .footer-section {
