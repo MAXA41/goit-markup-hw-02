@@ -41,7 +41,7 @@ font-family: "Roboto", sans-serif;
     /* line-height: 24px; */
     line-height: 150%;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
 }
 
 .nav-item-link:hover,
@@ -138,9 +138,6 @@ background-color: #F4F4FD;
     color: #2e2f42;
     
 }
-.nyn-privet {
-    background-color: #FFFFFF;
-}
 
 .team-name {
     font-family: "Roboto", sans-serif;
@@ -164,6 +161,10 @@ background-color: #F4F4FD;
         letter-spacing: 0.02em;
         text-align: center;
         color: #434455;
+}
+
+.nyn-privet {
+    background-color: #FFFFFF;
 }
 
 .h-portfolio {
