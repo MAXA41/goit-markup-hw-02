@@ -136,6 +136,7 @@ background-color: #F4F4FD;
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
+    background-color: #FFFFFF;
     
 }
 
@@ -149,6 +150,7 @@ background-color: #F4F4FD;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        background-color: #FFFFFF;
 }
 
 .team-job {
@@ -161,6 +163,7 @@ background-color: #F4F4FD;
         letter-spacing: 0.02em;
         text-align: center;
         color: #434455;
+        background-color: #FFFFFF;
 }
 
 .nyn-privet {
@@ -178,6 +181,7 @@ background-color: #F4F4FD;
         text-transform: capitalize;
         text-align: center;
         color: #2e2f42;
+        
         
 }
 
