@@ -38,7 +38,7 @@ font-family: "Roboto", sans-serif;
     /* line-height: 24px; */
     line-height: 150%;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455;
 }
 
 .nav-item-link:hover,
@@ -49,7 +49,7 @@ font-family: "Roboto", sans-serif;
     font-style: normal;
 }
 /* #endregion header */
-.address{
+.nav-item-linkk{
     font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
@@ -59,8 +59,8 @@ font-family: "Roboto", sans-serif;
         letter-spacing: 0.02em;
         color: #434455;
 }
-.address:hover,
-.address:focus {
+.nav-item-linkk:hover,
+.nav-item-linkk:focus {
     color: #404bbf;
 }
 .button-zone{
@@ -117,17 +117,27 @@ background-color: #2e2f42;
     letter-spacing: 0.02em;
     color: #434455;}
 
-.team-h {font-family: "Roboto", sans-serif;
+    .dlya-fona{
+background-color: #F4F4FD;
+}
+
+
+.team-h {
+    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
 
     /* line-height: 40px; */
     line-height: 111%;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
+    
 }
-
+.nyn-privet {
+    background-color: #FFFFFF;
+}
 
 .team-name {
     font-family: "Roboto", sans-serif;
@@ -161,8 +171,10 @@ background-color: #2e2f42;
         /* line-height: 40px; */
         line-height: 111%;
         letter-spacing: 0.02em;
+        text-transform: capitalize;
         text-align: center;
         color: #2e2f42;
+        
 }
 
 .portfolio-discr {
